@@ -54,5 +54,11 @@
         "default": "Ctrl+Shift+U"
       }
     }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "some-name@example.org"
+    }
   }
 }
